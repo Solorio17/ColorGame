@@ -1,5 +1,5 @@
 var numSquares = 6;
-var colors = [];
+var colores = [];
 var pickedColor;
 var squares = document.querySelectorAll(".square");
 var colorDisplay = document.getElementById("colorDisplay");
